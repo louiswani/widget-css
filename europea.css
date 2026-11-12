@@ -1,0 +1,2 @@
+.ww-dock .ww-suggestions { display: none !important; }
+.ww-dock:focus-within .ww-suggestions { display: block !important; }
